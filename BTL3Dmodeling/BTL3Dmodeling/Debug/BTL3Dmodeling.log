@@ -1,0 +1,8 @@
+﻿  BTL3Dmodeling.cpp
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(105,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(107,27): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(122,37): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(124,38): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(126,38): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(128,39): warning C4305: '+=': truncation from 'double' to 'float'
+  BTL3Dmodeling.vcxproj -> D:\Attachments\VisualStudio\BTL3Dmodeling\Debug\BTL3Dmodeling.exe

@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\Attachments\VisualStudio\BTL3Dmodeling\test\test.cpp(159,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  test.vcxproj -> D:\Attachments\VisualStudio\BTL3Dmodeling\Debug\test.exe
