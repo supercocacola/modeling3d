@@ -72,8 +72,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\simple-opengl-image-library-master\include;D:\Attachments\VisualStudio\OpenGLbox\include\src;D:\Attachments\VisualStudio\OpenGLbox\include\IL;D:\Attachments\VisualStudio\OpenGLbox\include\glm;D:\Attachments\VisualStudio\OpenGLbox\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\simple-opengl-image-library-master\libs;D:\Attachments\VisualStudio\OpenGLbox\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\simple-opengl-image-library-master\include;D:\Attachments\VisualStudio\BTL3Dmodeling\OpenGLbox\include\src;D:\Attachments\VisualStudio\BTL3Dmodeling\OpenGLbox\include\IL;D:\Attachments\VisualStudio\BTL3Dmodeling\OpenGLbox\include\glm;D:\Attachments\VisualStudio\BTL3Dmodeling\OpenGLbox\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\simple-opengl-image-library-master\libs;D:\Attachments\VisualStudio\BTL3Dmodeling\OpenGLbox\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>

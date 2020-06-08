@@ -1,8 +1,9 @@
 ﻿  BTL3Dmodeling.cpp
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(105,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(107,27): warning C4305: '-=': truncation from 'double' to 'GLfloat'
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(122,37): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(124,38): warning C4305: '+=': truncation from 'double' to 'float'
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(126,38): warning C4305: '-=': truncation from 'double' to 'float'
-D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(128,39): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(204,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(204,111): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(206,67): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(206,113): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(294,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(295,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Attachments\VisualStudio\BTL3Dmodeling\BTL3Dmodeling\BTL3Dmodeling.cpp(436,38): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
   BTL3Dmodeling.vcxproj -> D:\Attachments\VisualStudio\BTL3Dmodeling\Debug\BTL3Dmodeling.exe
